@@ -1,0 +1,21 @@
+.search-section {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: white;
+    transition: background-color 0.3s ease-in-out;
+    padding: 5px 0;
+    label, input {
+        display: block;
+        width: 100%;
+        font-size: 1.1rem;
+        font-weight: 500;
+        padding: 10px 0;
+    }
+    input {
+        height: 40px;
+        border: 1px solid #dedede;
+        padding: 5px;
+    }
+}
+
