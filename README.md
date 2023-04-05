@@ -34,7 +34,6 @@ To run this application follow below steps:
     # How long did you spend on the exercise?
     # went through all of the acceptance criterias mentioned on the tasks
     # manually tested the application on local host 
-    # hosted on vercel and tested it on server
 
 # How long did you spend on the exercise?
     It almost took 3-4 hours to make this as I have not got a chance to finish it in one go due to work commitment. 
